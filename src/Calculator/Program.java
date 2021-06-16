@@ -1,8 +1,8 @@
 package Calculator;
 import java.util.Scanner;
 
-import static Calculator.Roman.convertIntToRoman;
-import static Calculator.Roman.convertRomanToInt;
+import static Calculator.Roman.*;
+
 
 public class Program {
 
